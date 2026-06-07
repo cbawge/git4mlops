@@ -11,4 +11,5 @@ def add_numbers(a, b):
     int or float: The sum of the two numbers.
     """
     #This is where the addition happens
+    # We take the two input numbers and add them together
     return a + b 
